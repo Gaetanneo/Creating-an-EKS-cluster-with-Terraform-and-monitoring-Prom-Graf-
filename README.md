@@ -1,5 +1,5 @@
 # Creating-an-EKS-cluster-with-Terraform-and-monitoring-Prom-Graf-
-
+![Screenshot 2024-12-09 235046](https://github.com/user-attachments/assets/56fe26b1-0a62-4d11-84f1-870b5e79fabb)
 ![Screenshot 2024-12-10 180631](https://github.com/user-attachments/assets/ccd77f0f-fac6-4fbf-a955-bbd5975b62e4)
 ![Screenshot 2024-12-10 180729](https://github.com/user-attachments/assets/cc55a0ab-1122-44be-985c-817a753fb549)
 ![Screenshot 2024-12-10 181052](https://github.com/user-attachments/assets/05dd3a2a-6e1d-44f5-b2a2-b59b420dc9fd)
@@ -54,4 +54,4 @@
 ![Screenshot 2024-12-11 012819](https://github.com/user-attachments/assets/06a88d7d-82af-4b1b-8910-e81399ff9caf)
 ![Screenshot 2024-12-11 021450](https://github.com/user-attachments/assets/c502e967-4a18-4e4f-8073-7793c7e208e8)
 ![Screenshot 2024-12-11 024111](https://github.com/user-attachments/assets/cf5b0114-4b11-45fc-903f-dff2aeede50c)
-![Screenshot 2024-12-09 235046](https://github.com/user-attachments/assets/56fe26b1-0a62-4d11-84f1-870b5e79fabb)
+
